@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vashione</h1>
 <h3 align="center">A passionate software engineer playing around with various fields</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravener&label=Profile%20views&color=0e75b6&style=flat" alt="ravener" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravener&label=Profile%20views&color=0e75b6&style=flat" alt="vashione" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravener" alt="ravener" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vashione" alt="vashione" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ravenravener" target="blank"><img src="https://img.shields.io/twitter/follow/ravenravener?logo=twitter&style=for-the-badge" alt="ravenravener" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vashione" target="blank"><img src="https://img.shields.io/twitter/follow/vashione?logo=twitter&style=for-the-badge" alt="vashione" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/zCu2HUN8gk](soon)
 
