@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ravenravener" target="blank"><img src="https://img.shields.io/twitter/follow/ravenravener?logo=twitter&style=for-the-badge" alt="ravenravener" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ravener.now.sh](https://ravener.now.sh)
+- 👨‍💻 All of my projects are available at [https://discord.gg/zCu2HUN8gk](soon)
 
-- 📫 How to reach me **ravener.anime@gmail.com**
+- 📫 How to reach me **neqiwspolpraca@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, no? ok let's move on**
 
